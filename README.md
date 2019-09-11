@@ -1,6 +1,6 @@
 # Weather App Using React and Flask backend
 
-front - https://tuanphandeveloper.github.io/weatherReact/
+front - https://tuanphandeveloper.github.io/weatherReactTest/
 
 backend - https://weather-app-flask-react.appspot.com/ezw_api
 
