@@ -2,7 +2,7 @@
 
 front - https://tuanphandeveloper.github.io/weatherReact/
 
-backend - https://weather-app-flask-react.appspot.com/
+backend - https://weather-app-flask-react.appspot.com/ezw_api
 
 This is a weather prediction applicaiton with a React Front End and Python Flask Backend
 This is a test on using backend flask hosted on GCP and front end REACT
